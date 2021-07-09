@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-09T04:07:35.869Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="Bvm8tnqxVai6-AXq8uTW" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-09T04:17:33.674Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="ML9IbWrjM9UmiYcqHl3U" version="14.8.5" type="github">
   <diagram id="U0se5DWGwlDYX3Sg0kiH" name="Page-1">
     <mxGraphModel dx="1108" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -45,6 +45,18 @@
         </mxCell>
         <mxCell id="DwL3w4okpu6f0bRGBHRg-18" value="USING IP OR TCP IP BOTH ARE COMMINCTATE WITH EACH OTHER&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="135" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DwL3w4okpu6f0bRGBHRg-19" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 9pt ; line-height: 115% ; font-family: &amp;#34;helvetica&amp;#34; , sans-serif&quot;&gt;Here there is bottle neck&lt;br/&gt;here&amp;nbsp; or drawback ,here we are wasting memory, space and all, we are using&lt;br/&gt;one application in two machine :one machine contain&amp;nbsp; for tent &amp;nbsp;part and 2&lt;sup&gt;nd&lt;/sup&gt; machine contain&lt;br/&gt;backend part&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="470" width="650" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DwL3w4okpu6f0bRGBHRg-20" value="" style="line;strokeWidth=4;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="110" width="490" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="DwL3w4okpu6f0bRGBHRg-21" value="BACKEND" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="70" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DwL3w4okpu6f0bRGBHRg-22" value="FOR TENT" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="70" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
