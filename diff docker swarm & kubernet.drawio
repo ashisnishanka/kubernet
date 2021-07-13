@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-13T05:10:17.987Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="F-7DHVRKiC5nSd1JrNsc" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-13T05:19:41.102Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="7NCoyywJA22VcrYfth3B" version="14.8.5" type="github">
   <diagram id="TrClBFL4rAFNl2b7ktLQ" name="Page-1">
     <mxGraphModel dx="1108" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -51,6 +51,27 @@
         </mxCell>
         <mxCell id="OkLDoi_2dcPa73barFD--18" value="we have to choose the network that runs in the cluster based on the container run time&amp;nbsp;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="455" y="290" width="345" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OkLDoi_2dcPa73barFD--40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.815;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OkLDoi_2dcPa73barFD--36" target="OkLDoi_2dcPa73barFD--37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OkLDoi_2dcPa73barFD--36" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="260" y="470" width="320" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="OkLDoi_2dcPa73barFD--37" value="Distribution of containers across the cluster&amp;nbsp;&lt;br&gt;scalling up and scalling down&amp;nbsp;&lt;br&gt;Highavailbility&lt;br&gt;rolling update and rolling back" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="490" width="270" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="OkLDoi_2dcPa73barFD--38" value="" style="endArrow=classic;html=1;entryX=0.629;entryY=1.006;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="OkLDoi_2dcPa73barFD--1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="470" as="sourcePoint" />
+            <mxPoint x="270" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OkLDoi_2dcPa73barFD--39" value="" style="endArrow=classic;html=1;entryX=0.629;entryY=1.006;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="471" as="sourcePoint" />
+            <mxPoint x="589.5099999999999" y="371.9200000000001" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
