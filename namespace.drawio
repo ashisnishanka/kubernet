@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-16T15:42:42.659Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="nmDYdpD502DHMDtfbzgV" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-16T15:45:11.104Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="CUuQMLhu2uq3zp0j0kuC" version="14.8.4" type="github">
   <diagram id="dVXUt_YN8yqCxRVQCd2n" name="Page-1">
     <mxGraphModel dx="1038" dy="489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -34,7 +34,7 @@
         <mxCell id="CdA6uI-bimzktIpL5qC4-13" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="315" width="350" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="CdA6uI-bimzktIpL5qC4-15" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CdA6uI-bimzktIpL5qC4-15" value="&lt;b&gt;all the environment need to deploy in same cluster&lt;/b&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="90" width="170" height="250" as="geometry" />
         </mxCell>
       </root>
